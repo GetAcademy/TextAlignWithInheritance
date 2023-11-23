@@ -7,7 +7,9 @@ var textBoxRight = new TextBoxRight(text);
 var textBoxCenter = new TextBoxCenter(text);
 
 textBoxLeft.Show(0, 0, 30, 10);
-textBoxRight.Show(32, 0, 30, 10);
-textBoxCenter.Show(64, 0, 30, 10);
+textBoxRight.Show(43, 0, 30, 10);
+textBoxCenter.Show(90, 0, 30, 10);
 
 Console.SetCursorPosition(0, 12);
+
+
